@@ -45,4 +45,6 @@ The analysis is structured into the following sections:
    pip install -r requirements.txt
    ```
 
+**Note:** To ensure smooth execution and avoid potential errors, it is recommended to run this notebook sequentially from top to bottom without skipping any cells. This approach ensures that all necessary variables are properly initialized and that the data flows correctly through each step of the analysis. 
+
 ---
